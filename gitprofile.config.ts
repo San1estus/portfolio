@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Extreme Value Theory for Financial Risk Analysis',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Analyzed multi-year historical stock market time series to model market behavior. Implemented Generalized Extreme Value (GEV) models using NumPy and SciPy, validating results against empirical tail distributions. Built end-to-end data pipelines for preprocessing, statistical validation, and visualization of financial time series.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.flaticon.es/icono-gratis/ganancia-financiera_3008138?term=ganancias&page=1&position=1&origin=search&related_id=3008138',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: 'Autonomous Vehicle Navigation Agent',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            ' Developing a PPO-based reinforcement learning agent for lane-following navigation under progressively complex conditions, with the goal of generalizing to dynamic obstacle avoidance.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://www.flaticon.es/icono-gratis/car-service_1817409?term=car&page=1&position=5&origin=search&related_id=1817409',
+          link: '',
         },
       ],
     },
@@ -102,9 +102,9 @@ const CONFIG = {
   certifications: [
     {
       name: 'Google Data Analytics',
-      body: '',
-      year: 'March 2022',
-      link: 'https://example.com',
+      body: 'Learned to collect, visualize, analyze and tell a story based on data.',
+      year: 'December 2022',
+      link: 'https://www.coursera.org/professional-certificates/google-data-analytics',
     },
   ],
   educations: [
