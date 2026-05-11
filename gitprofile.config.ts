@@ -20,12 +20,12 @@ const CONFIG = {
         limit: 4, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['San1estus/Cuarto-Semestre'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['san1estus/Motion-Planning-Homework', 'San1estus/Motion-Planning-Final-Project'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['San1estus/Motion-Planning-Homework', 'San1estus/Motion-Planning-Final-Project', 'San1estus/SVD-MND', 'San1estus/VehiculosApp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -87,40 +87,32 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Universidad de Guanajuato',
+      position: 'Teacher Assistant at Data Structures and Algorithms',
+      from: 'January 2025',
+      to: 'August 2025',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Universidad de Gunajuato',
+      position: 'Teacher Assistant at Linear Algebra',
+      from: 'August 2024',
+      to: 'December 2024',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Google Data Analytics',
+      body: '',
       year: 'March 2022',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Mathematical Computing',
+      degree: 'Bachelor in Sciences',
+      from: '2022',
+      to: 'Present',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
