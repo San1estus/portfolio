@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Analyzed multi-year historical stock market time series to model market behavior. Implemented Generalized Extreme Value (GEV) models using NumPy and SciPy, validating results against empirical tail distributions. Built end-to-end data pipelines for preprocessing, statistical validation, and visualization of financial time series.',
           imageUrl:
-            'https://www.flaticon.es/icono-gratis/ganancia-financiera_3008138?term=ganancias&page=1&position=1&origin=search&related_id=3008138',
+            'https://www.flaticon.es/icono-gratis/ganancia-financiera_3008138',
           link: '',
         },
         {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             ' Developing a PPO-based reinforcement learning agent for lane-following navigation under progressively complex conditions, with the goal of generalizing to dynamic obstacle avoidance.',
           imageUrl:
-            'https://www.flaticon.es/icono-gratis/car-service_1817409?term=car&page=1&position=5&origin=search&related_id=1817409',
+            'https://www.flaticon.es/icono-gratis/car-service_1817409',
           link: '',
         },
       ],
@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
