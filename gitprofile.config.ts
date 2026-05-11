@@ -16,7 +16,7 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 4, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
@@ -37,15 +37,15 @@ const CONFIG = {
           description:
             'Analyzed multi-year historical stock market time series to model market behavior. Implemented Generalized Extreme Value (GEV) models using NumPy and SciPy, validating results against empirical tail distributions. Built end-to-end data pipelines for preprocessing, statistical validation, and visualization of financial time series.',
           imageUrl:
-            'https://www.flaticon.es/icono-gratis/ganancia-financiera_3008138',
+            'https://cdn-icons-png.flaticon.com/512/3008/3008138.png',
           link: '',
         },
         {
           title: 'Autonomous Vehicle Navigation Agent',
           description:
-            ' Developing a PPO-based reinforcement learning agent for lane-following navigation under progressively complex conditions, with the goal of generalizing to dynamic obstacle avoidance.',
+            'Developing a PPO-based reinforcement learning agent for lane-following navigation under progressively complex conditions, with the goal of generalizing to dynamic obstacle avoidance.',
           imageUrl:
-            'https://www.flaticon.es/icono-gratis/car-service_1817409',
+            'https://cdn-icons-png.flaticon.com/512/1817/1817409.png',
           link: '',
         },
       ],
