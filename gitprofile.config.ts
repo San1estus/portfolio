@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['San1estus/Motion-Planning-Homework', 'San1estus/Motion-Planning-Final-Project', 'San1estus/SVD-MND', 'San1estus/VehiculosApp'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['San1estus/Motion-Planning-Homework', 'San1estus/Motion-Planning-Final-Project', 'San1estus/SVD-MND', 'San1estus/EasyPixel'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
